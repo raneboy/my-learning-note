@@ -1,0 +1,7 @@
+
+# Comment One Line
+print("Hello World")    # Comment Behind Single Line of Code
+
+"""
+Multi-line Comments
+"""
