@@ -1,2 +1,2 @@
 # my-learning-note
-* This repossitory is my revision note
+* This repossitory is revision note
